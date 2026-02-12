@@ -2,7 +2,7 @@
 Official Android APK releases for BeimeiYangMao App
 
 
-# BeimeiYangMao Android App (APK)
+# BeimeiYangMao 北美羊毛 Android App (APK)
 
 This repository is used **only** to distribute the official Android APK.
 
